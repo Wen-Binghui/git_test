@@ -1,6 +1,5 @@
 import os
 import sys
 
-def main(){
+def main()
     a=1
-}
